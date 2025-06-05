@@ -5,5 +5,5 @@
 
 ![Typing Animation](https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Emilbek;Flutter+Dev+%7C+AI+Explorer+%7C+Startup+Dreamer&center=true&width=440&height=45)
 
-![Snake animation](https://github.com/eshaibekuulu/eshaibekuulu/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/eshaibekuulu/enigmaler/blob/output/github-contribution-grid-snake.svg)
 
